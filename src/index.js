@@ -14,4 +14,4 @@ function App() {
 }
 
 // 5.  Show the componaent on the screen
-//root.render(<App />);
+root.render(<App />);
